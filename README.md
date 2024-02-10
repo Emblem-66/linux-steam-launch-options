@@ -1,6 +1,6 @@
 # Steam Launch Options
 
-** launch options & extra dependencies **
+**launch options & extra dependencies**
 
 ### Universal
 
