@@ -12,6 +12,7 @@ options: ``gamemoderun %command%``
 
 protontricks 35140 d3dx9 d3dx9_43 d3dcompiler_43
 
+id: ``35140``
 
 proton: ``GE``
 
