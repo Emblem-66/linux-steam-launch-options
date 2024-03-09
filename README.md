@@ -26,6 +26,7 @@ options: ``gamemoderun %command%``
 ### Tom Clancy's Splinter Cell Conviction
 
 **no audio device found, gpu unsupported**
+[image](image.jpg)
 
 id: ``33220``
 
