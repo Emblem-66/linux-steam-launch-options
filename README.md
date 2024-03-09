@@ -28,6 +28,8 @@ options: ``gamemoderun %command%``
 **no audio device found, gpu unsupported**
 [image](image.png)
 
+go to game folder and delete ``systemdetection.dll`` or set launch option ``WINEDLLOVERRIDES=systemdetection=d``
+
 id: ``33220``
 
 proton: `` ``
