@@ -25,12 +25,10 @@ options: ``gamemoderun %command%``
 
 ### Tom Clancy's Splinter Cell Conviction
 
-WINEDLLOVERRIDES=systemdetection=d PULSE_MSEC_LATENCY=60 WINE_CPU_TOPOLOGY="4:0,1,2,3" %command%
+**PERFORMANCE IS SHIT**
 
 id: ``33220``
 
-proton: `` ``
+proton: ``experimental``
 
-protontricks: `` ``
-
-options: ``WINEDLLOVERRIDES=systemdetection=d gamemoderun %command%``
+options: ``WINEDLLOVERRIDES=systemdetection=d WINE_CPU_TOPOLOGY="4:0,1,2,3" gamemoderun %command%``
