@@ -25,10 +25,7 @@ options: ``gamemoderun %command%``
 
 ### Tom Clancy's Splinter Cell Conviction
 
-**no audio device found, gpu unsupported**
-[image](image.png)
-
-go to game folder and delete ``systemdetection.dll`` or set launch option ``WINEDLLOVERRIDES=systemdetection=d``
+WINEDLLOVERRIDES=systemdetection=d PULSE_MSEC_LATENCY=60 WINE_CPU_TOPOLOGY="4:0,1,2,3" %command%
 
 id: ``33220``
 
@@ -36,4 +33,4 @@ proton: `` ``
 
 protontricks: `` ``
 
-options: ``gamemoderun %command%``
+options: ``WINEDLLOVERRIDES=systemdetection=d gamemoderun %command%``
