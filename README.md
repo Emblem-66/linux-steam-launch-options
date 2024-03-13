@@ -20,4 +20,4 @@ Launch options: ``WINEDLLOVERRIDES="d3dx9,d3dx9_43,d3dcompiler_43" gamemoderun %
 
 ID: ``33220``
 
-Launch options: ``WINEDLLOVERRIDES=systemdetection=d" gamemoderun %command%``
+Launch options: ``WINEDLLOVERRIDES="systemdetection=d" gamemoderun %command%``
